@@ -98,6 +98,8 @@ MAIN-IP + Meta:
 ADD-IP + Meta + MAC:
 <img src="img/hetzner/fetch-meta-2.png" alt="Alt-Text" title="" />
 
+**interface in the final step is eno1
+**
 ## 5. Upload images (pfsense and fedora)
 
 <img src="img/proxmox/proxmox-2.png" alt="Alt-Text" title="" />
