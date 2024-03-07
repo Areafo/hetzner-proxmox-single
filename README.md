@@ -2,6 +2,8 @@
 
 This repo is about the installation of Proxmox 7.X on Hetzner with pfsense as firewall for WAN, IP floating with additional IP address for the VM's to allow SNAT.
 
+#es muss definitiv das network_config_updated.sh script genutzt werden, das andere funktioniert nicht so wie gedacht
+
 # Hetzner Promox Architecture
 
 <img src="img/proxmox/arch.png" alt="Alt-Text" title="Hetzner Proxmox Architecture" />
